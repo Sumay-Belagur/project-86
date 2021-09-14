@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#bday{
+    width: 300px;
+    border-radius: 5px;
+}
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+    border-color: darkviolet;
+}
+
